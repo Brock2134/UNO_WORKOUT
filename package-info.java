@@ -1,4 +1,4 @@
 /**
- * All the methods used in playing UNO and returning a workout regimen.
+ * All of the test cases for the UNO workout game.
  */
-package unoworkout;
+package unoworkouttest;
